@@ -12,5 +12,3 @@ Automation test ini mencakup skenario utama pada aplikasi CURA Healthcare:
 | TC01_Login | Verifikasi user dapat login dengan kredensial valid |
 | TC02_Logout | Verifikasi user dapat logout dengan benar |
 | TC03_BookAppointment | Verifikasi user dapat melakukan pemesanan appointment dengan data valid |
-
-<img width="995" height="893" alt="image" src="https://github.com/user-attachments/assets/b1221f71-7a65-4ed4-995d-fd40e853b80f" />
