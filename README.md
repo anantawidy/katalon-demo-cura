@@ -1,6 +1,6 @@
 # CURA Healthcare Automation Testing (Katalon Studio)
-Project ini merupakan **automation test untuk website [CURA Healthcare Service](https://katalon-demo-cura.herokuapp.com/)**  
-yang dibuat menggunakan **Katalon Studio** (v9.7.6).
+
+Project ini merupakan **automation test untuk website [CURA Healthcare Service](https://katalon-demo-cura.herokuapp.com/)** yang dibuat menggunakan **Katalon Studio** (v9.7.6).
 ---
 
 ## Project Overview
